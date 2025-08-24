@@ -1,0 +1,145 @@
+.container {
+  width: 100%;
+  height: 150px;
+  background-color: gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.filha {
+  width: 100px;
+  height: 100px;
+  background-color: #008080;
+}
+
+.container2 {
+  width: 100%;
+  height: 150px;
+  background-color: gray;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.filha {
+  width: 100px;
+  height: 100px;
+  background-color: #008080;
+}
+
+.container3 {
+  width: 100%;
+  height: 150px;
+  background-color: gray;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.filha {
+  width: 100px;
+  height: 100px;
+  background-color: #008080;
+}
+
+.container4 {
+  width: 100%;
+  height: 150px;
+  background-color: gray;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.filha {
+  width: 100px;
+  height: 100px;
+  background-color: #008080;
+}
+.filha2 {
+  width: 200px;
+  height: 100px;
+  background-color: #008080;
+}
+.filha3 {
+  width: 100px;
+  height: 100px;
+  background-color: #008080;
+}
+
+.container5 {
+  background-color: #808080; /* Cor de fundo cinza */
+  padding: 20px; /* Adiciona um espaço interno */
+  display: flex; /* Habilita o Flexbox */
+  justify-content: space-between; /* Distribui os itens uniformemente */
+  align-items: center; /* Centraliza os itens verticalmente */
+  border-radius: 8px; /* Arredonda as bordas */
+  margin-bottom: 20px;
+}
+
+.container-esquerdo {
+  background-color: #008080;
+  width: 120px;
+  height: 120px;
+}
+
+.container-central {
+  background-color: #008080;
+  width: 250px;
+  height: 120px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 15px;
+  padding: 0 10px;
+}
+
+.container-direito {
+  background-color: #008080;
+  width: 120px;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  gap: 15px;
+  padding: 10px 0;
+}
+
+.retangulo {
+  background-color: #e48135;
+  width: 80px;
+  height: 40px;
+}
+
+.container6 {
+  background-color: #808080; /* Cor de fundo cinza */
+  padding: 20px; /* Adiciona um espaço interno */
+  display: flex; /* Habilita o Flexbox */
+  align-items: center;
+  border-radius: 8px; /* Arredonda as bordas */
+  margin-bottom: 20px;
+}
+
+.quadrado {
+  background-color: #008080;
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.quadrado2 {
+  background-color: #008080;
+  width: 100px;
+  height: 100px;
+  margin-right: auto;
+}
