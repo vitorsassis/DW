@@ -1,0 +1,73 @@
+.esquerdo {
+  width: 250px;
+  height: 350px;
+  background-color: gray;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.ciano {
+  height: 100px;
+  width: 250px;
+  background-color: #008080;
+}
+
+.laranja {
+  height: 150px;
+  width: 250px;
+  background-color: orangered;
+}
+
+.vermelho {
+  height: 50px;
+  width: 250px;
+  background-color: rgb(209, 7, 7);
+}
+
+.amarelo {
+  height: 50px;
+  width: 250px;
+  background-color: yellow;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.laranjinha {
+  height: 40px;
+  width: 150px;
+  background-color: orange;
+}
+
+.laranjinha2 {
+  height: 40px;
+  width: 70px;
+  background-color: orange;
+}
+
+.direito {
+  width: 500px;
+  height: 350px;
+  background-color: gray;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  border-radius: 8px;
+}
+
+.ciano2 {
+  width: 80px;
+  height: 90px;
+  background-color: #008080;
+  align-self: flex-start;
+}
+
+.vermelho2 {
+  width: 200px;
+  height: 45px;
+  background-color: rgb(209, 7, 7);
+}
